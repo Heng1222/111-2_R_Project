@@ -49,5 +49,10 @@ glob
 
 R：
 ```
-
+lubridate
+ggplot2
+GGally
+reshape2
+scales
+coefplot
 ```
