@@ -31,6 +31,9 @@
 1.<行政院環境保護署-空氣品質歷年監測資料> https://airtw.epa.gov.tw/CHT/Query/His_Data.aspx
 2.<中央氣象局-觀測資料查詢> https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp
 
-**程式碼**
+**檔案**
+`download.py`
+`GenerateCSV.py` -  將下載的csv檔合併
+`main.py` - 主要執行檔
 
-'GenerateCSV.py' - 
+**使用套件**
