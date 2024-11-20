@@ -33,10 +33,15 @@
 
 **檔案**
 `downloadData.py` - 下載每日觀測資料
+
 `GenerateCSV.py` -  將下載的csv檔合併
+
 `main.R` - 主要執行檔
+
 
 **使用套件**
 Python：
 
-``
+`pandas` - 資料整理
+
+ `glob` - 檔案整理
