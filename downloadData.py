@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import time
-path = "C:/證衡/python/CrownDriver/chromedriver.exe"
+path = "" #webdriver path
 driver = webdriver.Chrome(service = Service(ChromeDriverManager().install()))
 dates=[0,31,29,31,30,31,30,31,31,30,31,30,31]
 for month in range(1,13):
