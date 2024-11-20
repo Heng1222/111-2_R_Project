@@ -37,7 +37,7 @@
 
 `GenerateCSV.py` -  將下載的csv檔合併
 
-`main.R` - 主要執行檔
+`main.R` - 主要分析執行
 
 
 **使用套件**
