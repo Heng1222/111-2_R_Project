@@ -41,7 +41,13 @@
 
 **使用套件**
 Python：
+```
+selenium
+pandas
+glob
+```
 
-`pandas` - 資料整理
+R：
+```
 
- `glob` - 檔案整理
+```
